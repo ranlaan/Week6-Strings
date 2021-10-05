@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\bin\Debug\netcoreapp3.1\CompareStrings.exe
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\bin\Debug\netcoreapp3.1\CompareStrings.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\bin\Debug\netcoreapp3.1\CompareStrings.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\bin\Debug\netcoreapp3.1\CompareStrings.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\bin\Debug\netcoreapp3.1\CompareStrings.dll
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\bin\Debug\netcoreapp3.1\CompareStrings.pdb
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\obj\Debug\netcoreapp3.1\CompareStrings.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\obj\Debug\netcoreapp3.1\CompareStrings.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\obj\Debug\netcoreapp3.1\CompareStrings.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\obj\Debug\netcoreapp3.1\CompareStrings.dll
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\obj\Debug\netcoreapp3.1\CompareStrings.pdb
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\CompareStrings\obj\Debug\netcoreapp3.1\CompareStrings.genruntimeconfig.cache

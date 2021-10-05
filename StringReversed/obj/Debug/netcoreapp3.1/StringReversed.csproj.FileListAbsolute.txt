@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\bin\Debug\netcoreapp3.1\StringReversed.exe
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\bin\Debug\netcoreapp3.1\StringReversed.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\bin\Debug\netcoreapp3.1\StringReversed.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\bin\Debug\netcoreapp3.1\StringReversed.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\bin\Debug\netcoreapp3.1\StringReversed.dll
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\bin\Debug\netcoreapp3.1\StringReversed.pdb
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\obj\Debug\netcoreapp3.1\StringReversed.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\obj\Debug\netcoreapp3.1\StringReversed.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\obj\Debug\netcoreapp3.1\StringReversed.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\obj\Debug\netcoreapp3.1\StringReversed.dll
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\obj\Debug\netcoreapp3.1\StringReversed.pdb
+C:\Users\opilane\source\repos\LOGitpe21\ForLoopsAndStrings\StringReversed\obj\Debug\netcoreapp3.1\StringReversed.genruntimeconfig.cache
